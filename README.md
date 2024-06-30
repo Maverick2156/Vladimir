@@ -34,7 +34,7 @@
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" 
   title="Devtools" alt="Devtools" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" 
-  title="Postman" alt="Postman" width="40" height="40"/>&nbsp
+  title="Postman" alt="Postman" width="40" height="40" src= "https://web.postman.co/workspace/My-Workspace~7294f822-179f-4d8d-86c9-10ffc7f95106/folder/34714620-d3814334-fd9a-4487-b14f-f5278ffbd81f"/>&nbsp
   <img src="https://soapui.ru/img/soapui-1.png" 
   title="Soap UI" alt="Soap UI" width="40" height="40"/>&nbsp
   <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png" 
