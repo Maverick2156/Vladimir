@@ -6,14 +6,27 @@
 
 Мой возраст 31 год, я начинающий тестировщик. Желаю получить новый опыт и освоить полученные навыки в области тестирования ПО. Люблю заниматься спортом и узнавать новое. 
 Проходил курсы тестировщика ПО на платфортма: GeekBrains и Udemy. 
+- Изучение теории тестирования и тестовой документации;
+- Составление чек-листов, баг-репортов;
+- Ручное тестирование Web(ui) инструментам и devtools;
+- Работа с devtools;
+- Навыки работы с баг-тренинговыми системами (Youtrack; Jira; Testrail);
+- Анализ тестовой документации;
+- Тестирование API инструментами Postman и Swagger (get, put, delete, post, создание коллекций);
+- Работа с базами данных (MySQL);
+- Работа с Linux (Bash; ls, cat, pwd, ps, echo, chmod, sh, mv);
+- Работа в Git (push, pull, commit, chechod);
+- Работа с JSON;
+- Ручное тестирование Android;
 
-- 📫 Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.maverik2156@gmail.com)
+📫 Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.maverik2156@gmail.com)
 
 ---
 
 ### 📁 Тестовая документация:
 
 <div>
+<a href= https://drive.google.com/drive/folders/1UTGQAkeAe8QnUTs74XUm7zMixbCARpaM?usp=drive_link> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
    title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" 
@@ -24,6 +37,7 @@
   alt="test-it" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
    title="figma" alt="figma" width="40" height="40"/>&nbsp
+  </a>
 </div>
 
 ---
@@ -33,8 +47,7 @@
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" 
   title="Devtools" alt="Devtools" width="40" height="40"/>&nbsp
-  <a href= https://web.postman.co/workspace/My-Workspace~7294f822-179f-4d8d-86c9-10ffc7f95106/collection/34714620-f02b0057-932e-40b1-b308-0b9eecd8b0fc>
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png"  
+  <a href= https://web.postman.co/workspace/My-Workspace~7294f822-179f-4d8d-86c9-10ffc7f95106/collection/34714620-f02b0057-932e-40b1-b308-0b9eecd8b0fc> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png"  
   title="Postman" alt="Postman" width="40" height="40"/>&nbsp
   </a>
   <img src="https://soapui.ru/img/soapui-1.png" 
@@ -58,8 +71,10 @@
 ### 💾 Работа с данными:
 
 <div>
+<a href= https://drive.google.com/drive/folders/1Wez-RWlt86BSik-SUOcIX5HTq3fJk2Yd?usp=drive_link>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
   title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
+</a>
 </div>
 
 ---
