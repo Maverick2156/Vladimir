@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Обо мне:
 
-Мой возраст 31 год, я начинающий тестировщик. На послнднем месте работы, АО "МЗ "Сапфир", занимал должность инженер-технолога по формирования полупроводниковых структур в кремниевых пластинах. Период работы с ноября 2018 по июль 2024. 
+Мой возраст 31 год, я начинающий тестировщик. На последнем месте работы, АО "МЗ "Сапфир", занимал должность инженер-технолога по формирования полупроводниковых структур в кремниевых пластинах. Период работы с ноября 2018 по июль 2024. 
 Основные мои обязаности:
 - Контороль качества выпускаемой продукции в соответсвие с документацией и сопровождение её до передачи в другой отдел;
 - Анализ выхода годной продукции;
@@ -43,9 +43,7 @@
   title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
   <img src="https://testit.software/themes/ino-testit/assets/images/logo/logo.svg" 
   alt="test-it" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-   title="figma" alt="figma" width="40" height="40"/>&nbsp
-  </a>
+ </a>
 </div>
 
 ---
@@ -69,7 +67,8 @@
 ### 📱 Тестирование мобильных приложений:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
+  <a href= https://docs.google.com/spreadsheets/d/1WsilpTgDvhfv-MRhvj2gOFj0bnR7UnidgnzMhuWb2ag/edit?usp=sharing><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" 
   title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp
  </div>
