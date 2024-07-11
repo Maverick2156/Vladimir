@@ -79,7 +79,7 @@
 ### 💾 Работа с данными:
 
 <div>
-<a href= https://drive.google.com/drive/folders/1Wez-RWlt86BSik-SUOcIX5HTq3fJk2Yd?usp=drive_link>
+<a href= https://drive.google.com/drive/folders/1Wez-RWlt86BSik-SUOcIX5HTq3fJk2Yd?usp=sharing>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
   title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
 </a>
