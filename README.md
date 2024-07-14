@@ -17,7 +17,6 @@
 - Изучение теории тестирования и тестовой документации;
 - Составление чек-листов, баг-репортов;
 - Ручное тестирование Web(ui) инструментам и devtools;
-- Работа с devtools;
 - Навыки работы с баг-тренинговыми системами (Youtrack; Jira; Testrail);
 - Анализ тестовой документации;
 - Тестирование API инструментами Postman и Swagger (get, put, delete, post, создание коллекций);
@@ -58,8 +57,9 @@
   </a>
   <img src="https://soapui.ru/img/soapui-1.png" 
   title="Soap UI" alt="Soap UI" width="40" height="40"/>&nbsp
-  <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png" 
+ <a href= https://petstore.swagger.io/> <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png" 
   title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
+  </a>
 </div>
 
 ---
@@ -67,7 +67,9 @@
 ### 📱 Тестирование мобильных приложений:
 
 <div>
-  <a href= https://docs.google.com/spreadsheets/d/1WsilpTgDvhfv-MRhvj2gOFj0bnR7UnidgnzMhuWb2ag/edit?usp=sharing><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
+  <a href= https://docs.google.com/spreadsheets/d/1WsilpTgDvhfv-MRhvj2gOFj0bnR7UnidgnzMhuWb2ag/edit?usp=sharing>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" 
+  title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" 
   title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp
@@ -106,9 +108,9 @@
 
 ---
 
-| GeekBrains                                                      | 01/2024 - 06/2024 | 
+| GeekBrains: Основы тестирования ПО                              | 01/2024 - 06/2024 | 
 
 ---
 
-| Udemy                                                           | 09/2023 - 12/2023 | 
+| Udemy: Тестировщик с нуля                                       | 09/2023 - 12/2023 | 
 
